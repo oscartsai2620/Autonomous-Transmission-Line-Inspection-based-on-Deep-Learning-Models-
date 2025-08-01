@@ -1,0 +1,21 @@
+class_weights:
+- 1.934295
+- 1.943639
+- 4.421245
+- 1.0
+- 0.320414
+- 0.561657
+- 0.804667
+names:
+- Birdnest
+- Broken_Insulator
+- Defective_Damper
+- Flashover_Insulator
+- Normal_Damper
+- Normal_Insulators
+- Self-Exploded_Insulator
+nc: 7
+path: /mnt/sdb/home/si25_osts0525/UAV_Inspection_System/dataset/target
+test: test/images
+train: train/images
+val: val/images
